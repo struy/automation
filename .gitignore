@@ -142,7 +142,7 @@ dmypy.json
 .vscode/*
 .vscode/settings.json
 !.vscode/tasks.json
-!.vscode/launch.json
+.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
 
@@ -150,4 +150,9 @@ dmypy.json
 # Ignore all local history of files
 .history
 .ionide
+
+# Module 1
+images
+img2
+module_1/images.zip
 
