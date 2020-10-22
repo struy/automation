@@ -22,3 +22,10 @@ Generate a PDF using Python
 Automatically send a PDF by email
 
 >  sudo chmod o+wx cars.py
+
+## Module 4
+
+Write a script that summarizes and processes sales data into different categories
+Generate a PDF using Python
+Automatically send a PDF by email
+Write a script to check the health status of the system
